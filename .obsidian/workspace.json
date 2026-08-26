@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025/november.md",
+                "file": "Felxibility/Streches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "november"
+              "title": "Streches"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2025/november.md",
+                "file": "Felxibility/Streches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2025/november.md",
+                "file": "Felxibility/Streches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025/november.md",
+                "file": "Felxibility/Streches.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,8 +189,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fc7f512013f1deeb",
+  "active": "c3dda5a5deedfb93",
   "lastOpenFiles": [
+    "Diary/2025/november.md",
+    "Felxibility/Streches.md",
+    "Felxibility/Untitled.base",
     "Speed",
     "Conditioning",
     "Felxibility",
@@ -214,9 +217,6 @@
     "Technique/Tachi-waza/ideas.md",
     "Technique/Tachi-waza/grip.md",
     "Technique/Tachi-waza",
-    "Diary/2026/march.md",
-    "Diary/2025/november.md",
-    "Diary/2026",
-    "Diary/2025"
+    "Diary/2026/march.md"
   ]
 }
