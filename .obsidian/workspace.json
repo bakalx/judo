@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Felxibility/Streches.md",
+                "file": "Technique/Tachi-waza/Koshi-waza.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Streches"
+              "title": "Koshi-waza"
+            }
+          }
+        ]
+      },
+      {
+        "id": "35234f9573f84d3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ce41f11b6aa3b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technique/Tachi-waza/Koshi-waza.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Koshi-waza"
             }
           }
         ]
@@ -99,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Felxibility/Streches.md",
+                "file": "Technique/Tachi-waza/Koshi-waza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Felxibility/Streches.md",
+                "file": "Technique/Tachi-waza/Koshi-waza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Felxibility/Streches.md",
+                "file": "Technique/Tachi-waza/Koshi-waza.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,10 +209,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c3dda5a5deedfb93",
+  "active": "1ce41f11b6aa3b39",
   "lastOpenFiles": [
-    "Diary/2025/november.md",
+    "Technique/Tachi-waza/Ashi-waza.md",
+    "Technique/Tachi-waza/Koshi-waza.md",
+    "Technique/Ne-waza/Kansetsu-waza.md",
+    "Technique/Tachi-waza/Grip.md",
     "Felxibility/Streches.md",
+    "Technique/Tachi-waza/personal.md",
+    "Technique/Tachi-waza/ideas.md",
+    "Diary/2025/november.md",
     "Felxibility/Untitled.base",
     "Speed",
     "Conditioning",
@@ -202,7 +228,6 @@
     "Technique/Ne-waza",
     "Technique",
     "Untitled.md",
-    "Technique/Tachi-waza/base.md",
     "Technique/Tachi-waza/images/uchi-mata.png",
     "Technique/Tachi-waza/images/o-uchi-gari.png",
     "Technique/Tachi-waza/images/o-soto-gari.png",
@@ -212,10 +237,7 @@
     "Untitled.base",
     "Technique/Tachi-waza/images/ko-uchi-gari.png",
     "Technique/Tachi-waza/images/hiza-guruma.png",
-    "Technique/Tachi-waza/personal.md",
     "Technique/Tachi-waza/images",
-    "Technique/Tachi-waza/ideas.md",
-    "Technique/Tachi-waza/grip.md",
     "Technique/Tachi-waza",
     "Diary/2026/march.md"
   ]

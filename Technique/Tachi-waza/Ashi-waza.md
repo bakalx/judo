@@ -1,3 +1,9 @@
+___
+
+### Tips & Tricks
+
+- when sweeping the legs, always aim for the rear heel (and try to connect the feet)
+- spam leg sweeps (they are cheap and low risk)
 
 <style>
 img {
@@ -5,15 +11,6 @@ img {
     height:auto;
 }
 </style>
-
-# Main Technik
-
-## Ashi-waza (足技)
-
-### Uchi-Mata (内股)
-
-
-![Uchi-Mata Sequence](uchi-mata.png)
 
 ### O-Soto-Gari (大外刈)
 
@@ -34,16 +31,4 @@ img {
 ### Ko-Soto-Gari (小外刈)
 
 ![Ko-Soto-Gari Sequence](ko-soto-gari.png)
-
-## Koshi-waza (腰技)
-
-### Harai-Goshi (払腰)
-
-![Harai-Goshi Sequence](harai-goshi.png)
-
-### Hane-Goshi (跳腰)
-
-![Hane-Goshi Sequence](hane-goshi.png)
-
-
 
