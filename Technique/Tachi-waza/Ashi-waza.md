@@ -5,13 +5,6 @@ ___
 - when sweeping the legs, always aim for the rear heel (and try to connect the feet)
 - spam leg sweeps (they are cheap and low risk)
 
-<style>
-img {
-    width:50%; 
-    height:auto;
-}
-</style>
-
 ### O-Soto-Gari (大外刈)
 
 ![O-Soto-Gari Sequence](o-soto-gari.png)
