@@ -22,5 +22,5 @@ Prepare with: O-uchi-gari, Ko-uchi-gari (in circle)
  
  Or Koshi-guruma with leg sweep 
 
-
+# Variations
 

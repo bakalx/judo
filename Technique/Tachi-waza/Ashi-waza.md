@@ -1,5 +1,4 @@
 ___
-
 ### Tips & Tricks
 
 - when sweeping the legs, always aim for the rear heel (and try to connect the feet)
@@ -25,3 +24,5 @@ ___
 
 ![Ko-Soto-Gari Sequence](ko-soto-gari.png)
 
+
+# Variations
