@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "habits": "multitext",
+    "judo": "checkbox",
+    "streching": "checkbox",
+    "strength": "checkbox",
+    "rating": "number",
+    "sleep_hours": "number",
+    "energy": "number",
+    "Conditioning": "checkbox"
+  }
+}

@@ -6,6 +6,8 @@ ___
 
 ### O-Soto-Gari (大外刈)
 
+**Shohei Ono**: O-Soto Sweep like O-Uchi and then up. 
+
 ![O-Soto-Gari Sequence](o-soto-gari.png)
 
 ### O-Uchi-Gari (大内刈)
@@ -23,6 +25,9 @@ ___
 ### Ko-Soto-Gari (小外刈)
 
 ![Ko-Soto-Gari Sequence](ko-soto-gari.png)
+
+### Sasae-Tsurikomi-Ashi
+
 
 
 # Variations

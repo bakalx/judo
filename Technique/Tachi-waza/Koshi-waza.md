@@ -22,5 +22,18 @@ Prepare with: O-uchi-gari, Ko-uchi-gari (in circle)
  
  Or Koshi-guruma with leg sweep 
 
+### Kata-Guruma
+
+
 # Variations
 
+### Uchi-Mata
+- Hidari Ko-Uchi-Gari -> Uchi-Mata
+- Osoto-Gari -> Uchi-Mata
+- ? De-Ashi-Barai -> Uchi-Mata ?
+- Hidari Sasae-Tsurikomi-Ashi -> Uchi-Mata
+- (Uchi-Mata -> Yoko-Tomoe-Nage)
+
+### Harai-Goshi
+- Uchi-Mata -> Harai-Goshi
+- 
